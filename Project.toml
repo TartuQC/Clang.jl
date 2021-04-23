@@ -1,5 +1,5 @@
-name = "clangARGH"
-uuid = "40e3b903-d033-50b4-a0cc-940c62c95e31"
+name = "Clang"
+uuid = "cf6e1f2a-8e4b-4cd1-b89c-30ca782ed4ca"
 authors = ["Isaiah Norton"]
 version = "0.12.1"
 
